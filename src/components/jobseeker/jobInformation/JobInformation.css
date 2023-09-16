@@ -1,0 +1,51 @@
+/* JobInformation.css */
+
+.job__info__container {
+    margin: 6rem;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .info__wrapper_main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #f3f0f0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 0 2rem;
+    flex-wrap: wrap;
+    max-width: 800px; 
+    margin-bottom: 2rem;
+  }
+  
+  .info__wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex: 1;
+  }
+  
+  .info__details{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  
+  .apply-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 15px ;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 1rem;
+  }
+  
+  .apply-button:hover {
+    background-color: #0056b3;
+  }

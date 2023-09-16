@@ -1,0 +1,64 @@
+/* Navbar.css */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    width: 100%;
+    position: fixed;
+    top: 0%;
+    z-index: 1;
+  }
+  
+  .navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .navbar-list li {
+    margin-right: 20px;
+  }
+  
+  .navbar-list li:last-child {
+    margin-right: 0;
+  }
+  
+  .navbar-link {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar-link:hover {
+    color: #007bff;
+    background-color: white;
+  }
+  
+  /* Apply styles when input fields are focused */
+  input:focus {
+    outline: none; /* Remove default outline (usually a blue border) */
+    border: 2px solid transparent; /* Add a transparent border */
+  }
+  
+  .login-link {
+    background-color: #007bff;
+    padding: 8px 16px;
+    border-radius: 5px;
+  }
+  
+  .recruiter-link {
+    border: 2px solid #007bff;
+    padding: 8px 16px;
+    border-radius: 5px;
+  }
+  
+  .recruiter-link:hover {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: white;
+  }
+  

@@ -1,0 +1,51 @@
+/* MyApplications.css */
+
+.applicants-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 5rem;
+  }
+  
+  .applicant-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 70%; /* Make the card 100% width */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .applicant-title {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .applicant-info {
+    margin-top: 10px;
+  }
+  
+  .applicant-info-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+  }
+  
+  .applicant-info-label {
+    font-weight: bold;
+  }
+  
+  .applicant-details-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .applicant-details-button:hover {
+    background-color: #0056b3;
+  }
+  
