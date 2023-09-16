@@ -12,11 +12,9 @@ export const getalljobsbyrecruiter = async () => {
   });
   if (response.ok) {
     const data = await response.json();
-    "data ", data;
     return data;
   } else {
     const errorData = await response.json();
-    "data apply", errorData;
   }
 };
 
@@ -29,11 +27,9 @@ export const getApplicants = async (jobid) => {
   });
   if (response.ok) {
     const data = await response.json();
-    "data ", data;
     return data;
   } else {
     const errorData = await response.json();
-    "data apply", errorData;
   }
 };
 
@@ -91,7 +87,6 @@ export const deleteajob = async (jobid) => {
       `${API}/recruiter/job/${jobid}`,
       getconfig
     );
-    return " ";
   } catch (error) {
     return error;
   }
