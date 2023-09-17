@@ -93,7 +93,10 @@ const Applicants = () => {
                     )
                   }
                 >
-                  <option value="UNDER_CONSIDERATION">
+                    <option value="APPLIED">
+                      APPLIED
+                    </option>
+                    <option value="UNDER_CONSIDERATION">
                     UNDER_CONSIDERATION
                   </option>
                   <option value="REJECTED">REJECTED</option>
