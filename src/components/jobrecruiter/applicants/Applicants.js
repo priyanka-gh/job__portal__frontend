@@ -84,7 +84,7 @@ const Applicants = () => {
               <div className="applicant-info-row">
                 <span className="applicant-info-label">Status:</span>
                 <select
-                  value="APPLIED" // Use applicant.status as value
+                  value={applicant.status} // Use applicant.status as value
                   onChange={(e) =>
                     handleStatusChange(
                       jobid,
