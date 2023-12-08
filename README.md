@@ -1,10 +1,10 @@
 **JOB SEEKER**
 
-- Signup
+- Role based Signup
   
 ![image](https://github.com/priyanka-gh/job__portal__frontend/assets/72594113/eb57b9a0-d197-4ec5-9b99-75ccb2ba0a1c)
 
-- Login
+- Role based Login
   
 ![image](https://github.com/priyanka-gh/job__portal__frontend/assets/72594113/12eede4d-270e-49b6-9479-70d5382d40a7)
 
