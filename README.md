@@ -16,11 +16,15 @@
   
 ![image](https://github.com/priyanka-gh/job__portal__frontend/assets/72594113/b57cfc6c-9537-42b7-aa7b-1e68e226e667)
 
-- Apply to a job
+- Create user profile
 
 ![image](https://github.com/priyanka-gh/job__portal__frontend/assets/72594113/635525b4-e00d-4562-b798-971aeeea4fb3)
 
+- Apply to a job
+
 ![image](https://github.com/priyanka-gh/job__portal__frontend/assets/72594113/1a9f10be-8675-4ee2-a9e8-a2a8bcb234a9)
+
+- View all the applications
 
 ![image](https://github.com/priyanka-gh/job__portal__frontend/assets/72594113/f4c1adb6-7c10-44b4-9a4d-9cc8897bc7ed)
 
