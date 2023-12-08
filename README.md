@@ -1,6 +1,9 @@
 **JOB SEEKER**
+
+- Signup
 ![image](https://github.com/priyanka-gh/job__portal__frontend/assets/72594113/eb57b9a0-d197-4ec5-9b99-75ccb2ba0a1c)
 
+-Login
 ![image](https://github.com/priyanka-gh/job__portal__frontend/assets/72594113/12eede4d-270e-49b6-9479-70d5382d40a7)
 
 ![image](https://github.com/priyanka-gh/job__portal__frontend/assets/72594113/6b23d9c6-bc8b-4e4e-b9d8-c410216ef4a1)
@@ -16,7 +19,7 @@
 
 **JOB RECRUITER**
 
--Can post a job
+- Can post a job
 ![image](https://github.com/priyanka-gh/job__portal__frontend/assets/72594113/5f1abe82-cecc-4beb-858d-bd643ca55648)
 
 - Can edit or delete posted jobs
